@@ -61,6 +61,8 @@ The transaction table acts as the central fact table, while the customer and pro
 - Created backup tables before performing deletion operations.
 - Analyzed missing values.
 - Applied appropriate missing-value handling strategies.
+  
+[Download the sql-query](Data-cleaning.sql)
 
 ### 3. Data Validation
 
