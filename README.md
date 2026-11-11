@@ -62,7 +62,7 @@ The transaction table acts as the central fact table, while the customer and pro
 - Analyzed missing values.
 - Applied appropriate missing-value handling strategies.
   
-[Download the sql-query](Data-cleaning.sql)
+[SQL-Query](Data-cleaning.sql)
 
 ### 3. Data Validation
 
@@ -70,6 +70,8 @@ The transaction table acts as the central fact table, while the customer and pro
 - Identified suspicious discount percentages.
 - Validated customer and product references.
 - Investigated inconsistent and missing records.
+
+[SQL-Query](Data-validation.sql)
 
 ### 4. Exploratory Data Analysis (EDA)
 
@@ -144,7 +146,7 @@ The SQL analysis helps identify:
 - Monitor discounts to protect profitability.
 - Use monthly sales trends for better business planning.
 
-*Recommendations should be prioritised using the actual results obtained from the SQL queries.*
+[SQL-Query](Data-analysis(Data-analysis(Exploratory Data Analysis -EDA).sql)
 
 ## Project Folder Structure
 
