@@ -146,7 +146,7 @@ The SQL analysis helps identify:
 - Monitor discounts to protect profitability.
 - Use monthly sales trends for better business planning.
 
-[SQL-Query](Data-analysis(Data-analysis(Exploratory Data Analysis -EDA).sql)
+[SQL-Query](Data-analysis-EDA.sql)
 
 ## Project Folder Structure
 
